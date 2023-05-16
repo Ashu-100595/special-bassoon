@@ -92,7 +92,7 @@ const Home = () => {
                     </div>
                 </div>
             </Parallax>
-            {/* <h2 className="scroll-btn">Scroll down</h2> */}
+            {/* <h2 className="scroll-btn ">Scroll down</h2> */}
             <Parallax bgImage={image3} strength={500}>
                 <div style={{ height: 600 }}>
                     <div style={insideStyles}>
